@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vlada
 
-<p align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/" text-decoration="none">My CV</a></p>
+<h1 align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/" text-decoration="none">My CV</a></h1>
 
 <div>
   <h2> ⚡My Skills ⚡:</h2>
