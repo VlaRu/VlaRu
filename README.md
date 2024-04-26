@@ -2,7 +2,7 @@
 <h1 align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/" text-decoration="none">My CV</a></h1>
 
 <div>
-  <h2> ⚡My Skills ⚡:</h2>
+  <h2> ⚡My Tech-Skills ⚡:</h2>
     <div background-color=#f03c15>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-38-226095.png?f=webp&w=256" width=50 height=50>
