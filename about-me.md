@@ -1,21 +1,20 @@
 ### Hi there 👋 I am Vlada
-
 <h1 align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/" text-decoration="none">My CV</a></h1>
 
 <div>
   <h2> ⚡My Skills ⚡:</h2>
-    <ul>
-      <li>HTML/HTML5</li>
-      <li>CSS/CSS3</li>
-      <li>JavaScript/ES6</li>
-      <li>React</li>
-      <li>TS</li>
-      <li>Git/Github</li>
-      <li>VScode</li>
-      <li>Linter/Prettier</li>
-      <li>NPM/Node</li>
-      <li>WebPack</li>
-    </ul>
+    <div background-color=#f03c15>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=256" width=50 height=50>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-38-226095.png?f=webp&w=256" width=50 height=50>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-6-226036.png?f=webp&w=256" width=50 height=50>
+      <img src='https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png?f=webp&w=256' width=50 height=50>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-4-1175110.png?f=webp&w=256" width=40 height=40>
+      <img src='https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629120-3030260.png?f=webp&w=256' width=40 height=40>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-17-1175218.png?f=webp&w=256" width=40 height=40>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-163-761603.png?f=webp&w=256" width=40 height=40>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-2-1174981.png?f=webp&w=256"width=80 height=70>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-visual-studio-code-3251603-2724650.png?f=webp&w=256" width=40 height=40>
+    </div>
 </div>
 <div>
   <h2>✨My projects✨</h2>
