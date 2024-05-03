@@ -1,9 +1,10 @@
-### Hi there 👋 I am Vlada
-<a target="_blank" href="https://vlaru.github.io/rsschool-cv/"><img src="./cv_PNG1.png" style="display: block; margin: 0 auto;"></a>
+# Hi there 👋 I am Vlada
+## </> Front-end developer 👩‍💻
+<p align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/"><img src="./cv_PNG1.png" width="200" height="200"></a></p>
 
-<div>
+<div background-color="#f03c15">
   <h2> ⚡My Tech-Skills ⚡:</h2>
-    <div background-color=#f03c15>
+    <div>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-38-226095.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-6-226036.png?f=webp&w=256" width=50 height=50>
@@ -32,6 +33,12 @@
 <div>
   <h2>🔥 CodeWars 🔥</h2>
   <img src="https://www.codewars.com/users/rsschool_f7813bcb0ffb871c/badges/large" >
+</div>
+<h2>My Courses</h2>
+<div display="flex">
+  <a><img src="https://yt3.googleusercontent.com/ytc/AIdro_lwn1knRB25xqtIy6_rEh2h32mGUbqDU-v1WODsOn94aA=s176-c-k-c0x00ffffff-no-rj" width="150" height="100"></a>
+  <a><img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="150" height="100"></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="150" height="100"></a>
 </div>
 
 <!--
