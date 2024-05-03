@@ -39,10 +39,12 @@
   <a><img src="https://yt3.googleusercontent.com/ytc/AIdro_lwn1knRB25xqtIy6_rEh2h32mGUbqDU-v1WODsOn94aA=s176-c-k-c0x00ffffff-no-rj" width="150" height="100"></a>
   <a><img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="150" height="100"></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="150" height="100"></a>
+  <a><img src="https://ph-files.imgix.net/5fc39cec-c389-4a36-8972-b4892a361b31.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1" width="150" height="100"></a>
 </div>
 <h2>Sertificates</h2>
 <div>
   <img src="./certifiesFreeCodeCamp.jpg" width="300" height="200">
+  <img src="./codecademy.png" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/118/701/original/118701.png?1713546182" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/100/789/original/100789.png?1713556310" width="300" height="200">
 </div>
