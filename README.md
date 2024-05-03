@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Vlada
-<h1 align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/" text-decoration="none">My CV</a></h1>
+<a target="_blank" href="https://vlaru.github.io/rsschool-cv/"><img src="./cv_PNG1.png" style="display: block; margin: 0 auto;"></a>
 
 <div>
   <h2> ⚡My Tech-Skills ⚡:</h2>
@@ -28,6 +28,10 @@
     <li><a href='https://vlaru.github.io/Travel/' target='_blank'>Travel</a></li>
     <li><a href='https://vlaru.github.io/Travel/](https://rolling-scopes-school.github.io/vlaru-JSFE2022Q3/online-zoo/pages/main/main.html)' target='_blank'></a></li>
   </ul>
+</div>
+<div>
+  <h2>🔥 CodeWars 🔥</h2>
+  <img src="https://www.codewars.com/users/rsschool_f7813bcb0ffb871c/badges/large" >
 </div>
 
 <!--
