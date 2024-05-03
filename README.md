@@ -40,6 +40,12 @@
   <a><img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="150" height="100"></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="150" height="100"></a>
 </div>
+<h2>Sertificates</h2>
+<div>
+  <img src="./certifiesFreeCodeCamp.jpg" width="300" height="200">
+  <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/118/701/original/118701.png?1713546182" width="300" height="200">
+  <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/100/789/original/100789.png?1713556310" width="300" height="200">
+</div>
 
 <!--
 **VlaRu/VlaRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
