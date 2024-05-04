@@ -1,5 +1,6 @@
 # Hi there 👋 I am Vlada
 ## </> Front-end developer 👩‍💻
+### 🔍 Looking for a job for Junior Front End Developer or Internship.
 <p align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/"><img src="./cv_PNG1.png" width="200" height="200"></a></p>
 
 <div background-color="#f03c15">
