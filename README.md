@@ -16,6 +16,8 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-163-761603.png?f=webp&w=256" width=40 height=40>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-2-1174981.png?f=webp&w=256"width=80 height=70>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-visual-studio-code-3251603-2724650.png?f=webp&w=256" width=40 height=40>
+      <img src="https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg" width=40 height=40>
+      <img src="https://img.stackshare.io/service/3337/Q4L7Jncy.jpg" width=40 height=40>
     </div>
 </div>
 <div>
