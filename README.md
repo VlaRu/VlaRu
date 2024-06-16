@@ -37,6 +37,12 @@
   <h2>🔥 CodeWars 🔥</h2>
   <img src="https://www.codewars.com/users/rsschool_f7813bcb0ffb871c/badges/large" >
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=vlaru)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>My Courses</h2>
 <div display="flex">
   <a><img src="https://yt3.googleusercontent.com/ytc/AIdro_lwn1knRB25xqtIy6_rEh2h32mGUbqDU-v1WODsOn94aA=s176-c-k-c0x00ffffff-no-rj" width="150" height="100"></a>
