@@ -56,6 +56,7 @@
   <img src="./codecademy.png" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/118/701/original/118701.png?1713546182" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/100/789/original/100789.png?1713556310" width="300" height="200">
+  <img src="./soleloarn.png" width="300" height="200">
 </div>
 
 <!--
