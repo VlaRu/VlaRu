@@ -23,7 +23,7 @@
 <div>
   <h2>✨My projects✨</h2>
   <div>
-    <a href='https://build--tubular-malabi-1be3f4.netlify.app/' target='_blank'><img src="./commerce.jpg" width="150" height="100"></a>
+    <a href='https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/' target='_blank'><img src="./commerce.jpg" width="150" height="100"></a>
     <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./travel.jpg" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/nonogram/' target='_blank'><img src="./nonogram.jpg" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./hangman.jpg" width="150" height="100"></a>
