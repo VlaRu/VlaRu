@@ -51,6 +51,7 @@
 </div>
 <h2>Sertificates</h2>
 <div>
+  <img src="./RScertificate.jpg" width="300" height="200">
   <img src="./certifiesFreeCodeCamp.jpg" width="300" height="200">
   <img src="./codecademy.png" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/118/701/original/118701.png?1713546182" width="300" height="200">
