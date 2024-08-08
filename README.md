@@ -1,7 +1,7 @@
 # Hi there 👋 I am Vlada
 ## </> Front-end developer 👩‍💻
 ### 🔍 Looking for a job for Junior Front End Developer or Internship.
-<p align="center"><a target="_blank" href="https://vlaru.github.io/rsschool-cv/"><img src="./cv_PNG1.png" width="200" height="200"></a></p>
+<p align="center"><a target="_blank" href="https://vlaru.github.io/CV/src/index.html"><img src="./sources/cv_PNG1.png" width="200" height="200"></a></p>
 
 <div background-color="#f03c15">
   <h2> ⚡My Tech-Skills ⚡:</h2>
@@ -23,13 +23,13 @@
 <div>
   <h2>✨My projects✨</h2>
   <div>
-    <a href='https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/' target='_blank'><img src="./commerce.jpg" width="150" height="100"></a>
-    <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./travel.jpg" width="150" height="100"></a>
-    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/nonogram/' target='_blank'><img src="./nonogram.jpg" width="150" height="100"></a>
-    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./hangman.jpg" width="150" height="100"></a>
-    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2022Q3/songbird/quiz.html' target='_blank'><img src="./song.jpg" width="150" height="100"></a>
-    <a href='https://vermillion-souffle-27bbf8.netlify.app/?city=Trzebnica#' target='_blank'><img src="./weather.jpg" width="150" height="100"></a>
-    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/rss-puzzle/#start-page' target='_blank'><img src="./puzzle.jpg" width="150" height="100"></a>
+    <a href='https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/' target='_blank'><img src="./sources/commerce.jpg" width="150" height="100"></a>
+    <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./sources/travel.jpg" width="150" height="100"></a>
+    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/nonogram/' target='_blank'><img src="./sources/nonogram.jpg" width="150" height="100"></a>
+    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./sources/hangman.jpg" width="150" height="100"></a>
+    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2022Q3/songbird/quiz.html' target='_blank'><img src="./sources/song.jpg" width="150" height="100"></a>
+    <a href='https://vermillion-souffle-27bbf8.netlify.app/?city=Trzebnica#' target='_blank'><img src="./sources/weather.jpg" width="150" height="100"></a>
+    <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/rss-puzzle/#start-page' target='_blank'><img src="./sources/puzzle.jpg" width="150" height="100"></a>
   </div>
 </div>
 <div>
@@ -51,13 +51,13 @@
 </div>
 <h2>Sertificates</h2>
 <div>
-  <img src="./RScertificate.jpg" width="300" height="200">
-  <img src="./certifiesFreeCodeCamp.jpg" width="300" height="200">
-  <img src="./codecademy.png" width="300" height="200">
+  <img src="./sources/RScertificate.jpg" width="300" height="200">
+  <img src="./sources/certifiesFreeCodeCamp.jpg" width="300" height="200">
+  <img src="./sources/codecademy.png" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/118/701/original/118701.png?1713546182" width="300" height="200">
   <img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/100/789/original/100789.png?1713556310" width="300" height="200">
-  <img src="./soleloarn.png" width="300" height="200">
-  <img src="./ts-c.jpg" width="300" height="200">
+  <img src="./sources/soleloarn.png" width="300" height="200">
+  <img src="./sources/ts-c.jpg" width="300" height="200">
 </div>
 
 <!--
