@@ -2,7 +2,7 @@
 ## </> Front-end developer 👩‍💻
 ### 🔍 Looking for a job for Junior Front End Developer or Internship.
 <a target="_blank" href="https://docs.google.com/document/d/1r04rEqMdGKCDkYGqi44Sy-9qDUHhtv3aeLs4rTQz3u4/edit?usp=sharing"><img src="./sources/cv-2.png" width="200" height="200"></a>
-><a target="_blank" href="https://vlaru.github.io/rsschool-cv/src/index.html"><img src="./sources/cv_PNG1.png" width="200" height="200"></a>
+<a target="_blank" href="https://vlaru.github.io/rsschool-cv/src/index.html"><img src="./sources/cv_PNG1.png" width="200" height="200"></a>
 <div background-color="#f03c15">
   <h2> ⚡My Tech-Skills ⚡:</h2>
     <div>
