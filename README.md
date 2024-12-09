@@ -1,17 +1,17 @@
 # Hi there 👋 I am Vlada
 ## </> Front-end developer 👩‍💻
-### 🔍 Looking for a job for Junior Front End Developer or Internship.
-<a target="_blank" href="https://docs.google.com/document/d/1r04rEqMdGKCDkYGqi44Sy-9qDUHhtv3aeLs4rTQz3u4/edit?usp=sharing"><img src="./sources/cv-2.png" width="200" height="200"></a>
+### 🔍 Looking for a position as a Front-End Developer or an Internship opportunity.
+<!--<a target="_blank" href="https://docs.google.com/document/d/1r04rEqMdGKCDkYGqi44Sy-9qDUHhtv3aeLs4rTQz3u4/edit?usp=sharing"><img src="./sources/cv-2.png" width="200" height="200"></a>-->
 <a target="_blank" href="https://vlaru.github.io/CV-2024/src/index.html"><img src="./sources/cv_PNG1.png" width="200" height="200"></a>
 <div background-color="#f03c15">
   <h2> ⚡My Tech-Skills ⚡:</h2>
     <div>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-4-1175110.png?f=webp&w=256" width=40 height=40>
+      <img src='https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629120-3030260.png?f=webp&w=256' width=40 height=40>
+      <img src='https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png?f=webp&w=256' width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-38-226095.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-6-226036.png?f=webp&w=256" width=50 height=50>
-      <img src='https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png?f=webp&w=256' width=50 height=50>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-4-1175110.png?f=webp&w=256" width=40 height=40>
-      <img src='https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629120-3030260.png?f=webp&w=256' width=40 height=40>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-17-1175218.png?f=webp&w=256" width=40 height=40>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-163-761603.png?f=webp&w=256" width=40 height=40>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-2-1174981.png?f=webp&w=256"width=80 height=70>
