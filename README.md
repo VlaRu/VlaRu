@@ -28,6 +28,7 @@
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/nonogram/' target='_blank'><img src="./sources/nonogram.jpg" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./sources/hangman.jpg" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2022Q3/songbird/quiz.html' target='_blank'><img src="./sources/song.jpg" width="150" height="100"></a>
+    <a href='https://vlaru.github.io/RSS_stage1-2/coffee-house/pages/home/home.html' target='_blank'><img src="./sources/coffee-house.jpg" width="150" height="100"></a>
     <a href='https://vermillion-souffle-27bbf8.netlify.app/?city=Trzebnica#' target='_blank'><img src="./sources/weather.jpg" width="150" height="100"></a>
     <a href='https://start-in-beauty.netlify.app/' target='_blank'><img src="./sources/smm.jpg" width="150" height="100"></a>
     <!--<a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/rss-puzzle/#start-page' target='_blank'><img src="./sources/puzzle.jpg" width="150" height="100"></a>-->
