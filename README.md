@@ -25,7 +25,7 @@
   <div>
     <a href='https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/' target='_blank'><img src="./sources/commerce.jpg" width="150" height="100"></a>
     <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./sources/travel.jpg" width="150" height="100"></a>
-    <a href='https://vlaru.github.io/RSS_stage1-2/nonograms/' target='_blank'><img src="./sources/nonogram.jpg" width="150" height="100"></a>
+    <a href='https://vlaru.github.io/RSS_stage1-2/nonograms/' target='_blank'><img src="./sources/nonogram.png" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./sources/hangman.jpg" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2022Q3/songbird/quiz.html' target='_blank'><img src="./sources/song.jpg" width="150" height="100"></a>
     <a href='https://vlaru.github.io/RSS_stage1-2/coffee-house/pages/home/home.html' target='_blank'><img src="./sources/coffee-house.jpg" width="150" height="100"></a>
