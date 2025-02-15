@@ -40,9 +40,11 @@
 </div>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=vlaru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vlaru&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlaru&show_icons=true&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vlaru)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <h2>My Courses</h2>
 <div display="flex">
