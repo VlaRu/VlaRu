@@ -31,7 +31,7 @@
     <a href='https://vlaru.github.io/RSS_stage1-2/coffee-house/pages/home/home.html' target='_blank'><img src="./sources/coffee-house.jpg" width="150" height="100"></a>
     <a href='https://weather-forecast-fun.netlify.app/' target='_blank'><img src="./sources/weather.jpg" width="150" height="100"></a>
     <a href='https://start-in-beauty.netlify.app/' target='_blank'><img src="./sources/smm.jpg" width="150" height="100"></a>
-    <a href='https://zesty-frangollo-e537ef.netlify.app/' target='_blank'><img src="./sources/todo-scr.png" width="150" height="100"></a>
+    <a href='https://todo-list-react-rtk.netlify.app/' target='_blank'><img src="./sources/todo-scr.png" width="150" height="100"></a>
     <!--<a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/rss-puzzle/#start-page' target='_blank'><img src="./sources/puzzle.jpg" width="150" height="100"></a>-->
   </div>
 </div>
