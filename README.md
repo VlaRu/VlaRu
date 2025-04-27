@@ -26,7 +26,7 @@
   <h2>✨My projects✨</h2>
   <div>
     <a href='https://github.com/RS-Tech-Artisans/eCommerce-React' target='_blank'><img src="./sources/commerce.jpg" width="150" height="100"></a>
-    <a href='https://react-ts-pokemon.netlify.app/' target='_blank'><img src="./sources/pokemon-scn.png" width="150" height="100"></a>
+    <a href='https://react-ts-pokemon.netlify.app/' target='_blank'><img src="./sources/pokemon-scr.png" width="150" height="100"></a>
     <a href='https://todo-list-react-rtk.netlify.app/' target='_blank'><img src="./sources/todo-scr.png" width="150" height="100"></a>
     <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./sources/travel.jpg" width="150" height="100"></a>
     <a href='https://vlaru.github.io/RSS_stage1-2/nonograms/' target='_blank'><img src="./sources/nonogram.png" width="150" height="100"></a>
