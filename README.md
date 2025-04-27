@@ -11,6 +11,8 @@
       <img src='https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png?f=webp&w=256' width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css-38-226095.png?f=webp&w=256" width=50 height=50>
+      <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" width=50 height=50>
+      <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-6-226036.png?f=webp&w=256" width=50 height=50>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-17-1175218.png?f=webp&w=256" width=40 height=40>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-163-761603.png?f=webp&w=256" width=40 height=40>
@@ -24,6 +26,8 @@
   <h2>✨My projects✨</h2>
   <div>
     <a href='https://github.com/RS-Tech-Artisans/eCommerce-React' target='_blank'><img src="./sources/commerce.jpg" width="150" height="100"></a>
+    <a href='https://react-ts-pokemon.netlify.app/' target='_blank'><img src="./sources/pokemon-scn.png" width="150" height="100"></a>
+    <a href='https://todo-list-react-rtk.netlify.app/' target='_blank'><img src="./sources/todo-scr.png" width="150" height="100"></a>
     <a href='https://vlaru.github.io/Travel/' target='_blank'><img src="./sources/travel.jpg" width="150" height="100"></a>
     <a href='https://vlaru.github.io/RSS_stage1-2/nonograms/' target='_blank'><img src="./sources/nonogram.png" width="150" height="100"></a>
     <a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/hangman/index.html' target='_blank'><img src="./sources/hangman.jpg" width="150" height="100"></a>
@@ -31,7 +35,6 @@
     <a href='https://vlaru.github.io/RSS_stage1-2/coffee-house/pages/home/home.html' target='_blank'><img src="./sources/coffee-house.jpg" width="150" height="100"></a>
     <a href='https://weather-forecast-fun.netlify.app/' target='_blank'><img src="./sources/weather.jpg" width="150" height="100"></a>
     <a href='https://start-in-beauty.netlify.app/' target='_blank'><img src="./sources/smm.jpg" width="150" height="100"></a>
-    <a href='https://todo-list-react-rtk.netlify.app/' target='_blank'><img src="./sources/todo-scr.png" width="150" height="100"></a>
     <!--<a href='https://rolling-scopes-school.github.io/vlaru-JSFE2023Q4/rss-puzzle/#start-page' target='_blank'><img src="./sources/puzzle.jpg" width="150" height="100"></a>-->
   </div>
 </div>
